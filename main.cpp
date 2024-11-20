@@ -24,5 +24,6 @@ int main()
     std::cout << "Atlag: " << atlag << std::endl;
 
     delete[] b; //memoria felszabaditás
+    std::cout << "Itt járt Tamás" << std::endl;
     return 0;
 }
